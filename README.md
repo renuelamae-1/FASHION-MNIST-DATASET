@@ -1,7 +1,7 @@
 # FASHION-MNIST-DATASET
 Clothing
 
-## Google Collab Link : [https://colab.research.google.com/drive/1RWm3WYiFxK-CjivWyZsaoBEXKqwDMp7A?usp=sharing](https://colab.research.google.com/drive/1RWm3WYiFxK-CjivWyZsaoBEXKqwDMp7A?usp=sharing)
+## Google Collab Link : https://colab.research.google.com/drive/1a6y9A7-0Jhd1XT8pPo8g5QO1wBVE3TkB?usp=sharing
 
 
 ## 1. What is the Fashion MNIST dataset?
